@@ -1,0 +1,65 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Problems/Account and its owner/out/
+/Problems/Account and its owner/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Check prefix ignoring the case/out/
+/Problems/Check prefix ignoring the case/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Compression algorithm/out/
+/Problems/Compression algorithm/out/production/classes/
+/Problems/Concat all strings without digits/out/
+/Problems/Concat all strings without digits/out/production/classes/
+/Problems/Converting and multiplying/out/
+/Problems/Converting and multiplying/out/production/classes/
+/Problems/Distance/out/
+/Problems/Distance/out/production/classes/
+/Problems/Exactly one parameter is positive/out/
+/Problems/Exactly one parameter is positive/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/Find the max of three numbers/out/
+/Problems/Find the max of three numbers/out/production/classes/
+/Problems/Gaussian random numbers/out/
+/Problems/Gaussian random numbers/out/production/classes/
+/Problems/Generate random numbers/out/
+/Problems/Generate random numbers/out/production/classes/
+/Problems/Inverse boolean flags/out/
+/Problems/Inverse boolean flags/out/production/classes/
+/Problems/Move the first N characters/out/
+/Problems/Move the first N characters/out/production/classes/
+/Problems/Palindrome/out/
+/Problems/Palindrome/out/production/classes/
+/Problems/Preparing full name/out/
+/Problems/Preparing full name/out/production/classes/
+/Problems/Print "Hello, Java!"/out/
+/Problems/Print "Hello, Java!"/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Quadratic equation/out/
+/Problems/Quadratic equation/out/production/classes/
+/Problems/Queens/out/
+/Problems/Queens/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/Sorting numbers/out/
+/Problems/Sorting numbers/out/production/classes/
+/Problems/Tens digit/out/
+/Problems/Tens digit/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
+/Problems/The count of numbers divisible by N/out/
+/Problems/The count of numbers divisible by N/out/production/classes/
+/Problems/The English alphabet/out/
+/Problems/The English alphabet/out/production/classes/
+/Problems/The lucky ticket/out/
+/Problems/The lucky ticket/out/production/classes/
